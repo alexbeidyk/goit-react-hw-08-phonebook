@@ -1,0 +1,17 @@
+.nav_list {
+  display: flex;
+  list-style: none;
+  font-size: bold;
+}
+.base {
+  color: #282c34;
+  text-decoration: none;
+}
+.active {
+  color: tomato;
+  text-decoration: none;
+}
+.link {
+  margin-right: 20px;
+  font-weight: bold;
+}

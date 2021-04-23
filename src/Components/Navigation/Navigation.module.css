@@ -1,0 +1,18 @@
+.nav_list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  font-size: bold;
+}
+/* .base {
+  color: #4c6cd46b;
+  text-decoration: none;
+}
+.active {
+  color: rgb(31, 41, 175);
+  text-decoration: none;
+} */
+.link {
+  margin-right: 20px;
+  /* font-weight: bold; */
+}
